@@ -20,3 +20,6 @@ Take your 6 images, and create a simple website that showcases them. Include som
 
 ##Image hosting##
 https://imggmi.com/ is a good site to host your images (remember that if you link to a file on your computer, others won't be able to see it)
+
+
+hello world!
